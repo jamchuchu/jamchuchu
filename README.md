@@ -1,5 +1,5 @@
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpals5987)](https://solved.ac/rlatngus1691/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gpals5987)](https://solved.ac/gpals5987/)
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamchuchu&show_icons=true&theme=dracula)
 </br>
